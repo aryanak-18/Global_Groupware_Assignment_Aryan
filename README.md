@@ -59,7 +59,7 @@ This React application integrates with the Reqres API to perform basic user mana
 ---
 
 ### Deployment
-Hosted at: [Live Link](#) 
+Hosted at: [Live Link](https://global-groupware-assignment-aryan.vercel.app/) 
 
 ---
 
