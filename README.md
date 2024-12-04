@@ -1,4 +1,4 @@
-## EmployWise Front-End Assignment
+## Global Groupware (EmployWise) Assignment
 
 ### Project Overview
 This React application integrates with the Reqres API to perform basic user management functions, including authentication, listing users, and editing or deleting user details with form-validation and regex expression for email validation. The project consists of three progressive levels of complexity.
